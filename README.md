@@ -1,3 +1,3 @@
 The Personal Task Manager App is a streamlined application designed to help users effectively organize and manage their daily tasks. Built using React for the frontend, this app offers an intuitive user interface that enables easy interactions for adding, updating, deleting, and categorizing tasks. On the backend, it utilizes Express, a flexible Node.js web application framework, to handle API requests and manage task data efficiently. The app leverages CSS, with a particular focus on Flexbox, to ensure a responsive layout that adapts seamlessly across different devices, enhancing user experience. This combination of technologies—React for dynamic client-side functionalities, Express for robust server-side operations, and CSS Flexbox for layout optimization—makes the Task Manager App a practical tool for personal productivity and an excellent showcase of modern web development practices.
 
-![showcase](images/exampleImage.png)
+![showcase](./images/exampleImage.png)
